@@ -1,0 +1,12 @@
+---
+continue: true
+transfer: "ln_s"
+exclude: "clientpath"
+skip: "all"
+output: "yaml"
+parallel_upload: "20"
+path: "idr0044-experimentA-filePaths.tsv"
+readers: "readers.txt"
+columns:
+  - target
+  - path
