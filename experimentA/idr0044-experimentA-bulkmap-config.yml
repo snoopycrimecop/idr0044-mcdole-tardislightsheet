@@ -39,9 +39,6 @@ columns:
   - name: Growth Condition
     clientname: Growth Condition
     include: yes
-  - name: Time point
-    clientname: Time point
-    include: yes
   - name: Channels
     clientname: Channels
     include: yes

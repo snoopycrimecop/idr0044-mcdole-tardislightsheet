@@ -62,10 +62,10 @@ public class IDR0044Workflow {
             annotationContent = addColumn(annotationContent, CSV, 3, "NCBITaxon", "Term Source 1 REF");
             annotationContent = addColumn(annotationContent, CSV, 4, "10090", "Term Source 1 Accession");
             
-            index = getColumnIndex(annotationContent, "Image File Comments", CSV);
-            annotationContent = renameColumn(annotationContent, index, "Time point", CSV);
+            index = getColumnIndex(annotationContent, "Image Name", CSV);
             annotationContent = process(annotationContent, index, CSV, s -> {
-                return s.split("\\s+")[2];
+                // TODO: Need to change the image name the same way bioformats changes the name on import!
+                return s;
             });
             
             // Finally save the annotion.csv file
