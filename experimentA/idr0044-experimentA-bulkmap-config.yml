@@ -21,22 +21,25 @@ defaults:
 
 columns:
 
-  - name: Strain
+  - name: Characteristics [Strain]
     clientname: Strain
     include: yes
   - name: Reporter
     clientname: Reporter
     include: yes
-  - name: Genotype
+  - name: Experimental Condition [Genotype]
     clientname: Genotype
     include: yes
-  - name: Developmental Stage
+  - name: Characteristics [Developmental Stage]
     clientname: Developmental Stage
     include: yes
-  - name: Developmental Stage Comments
-    clientname: Developmental Stage Comments
+  - name: Comment [Developmental Stage]
+    clientname: Comment Developmental Stage
     include: yes
-  - name: Growth Condition
+  - name: Material Type
+    clientname: Material Type
+    include: yes
+  - name: Characteristics [Growth Condition]
     clientname: Growth Condition
     include: yes
   - name: Channels
