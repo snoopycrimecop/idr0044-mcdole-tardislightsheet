@@ -3,7 +3,7 @@
 # STUDY DESCRIPTION SECTION				
 "# Section with generic information about the study including title, description, publication details (if applicable) and contact details"				
 				
-Comment[IDR Study Accession]	# leave blank			
+Comment[IDR Study Accession]	idr0044			
 Study Title	In toto imaging and reconstruction of post-implantation mouse development at the single-cell level			
 Study Type	# leave blank			
 Study Type Term Source REF	# leave blank			
