@@ -34,7 +34,7 @@ columns:
     clientname: Developmental Stage
     include: yes
   - name: Comment [Developmental Stage]
-    clientname: Comment Developmental Stage
+    clientname: Developmental Stage Description
     include: yes
   - name: Material Type
     clientname: Material Type
