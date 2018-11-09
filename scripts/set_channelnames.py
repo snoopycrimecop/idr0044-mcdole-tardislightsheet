@@ -1,4 +1,5 @@
 from omero.gateway import BlitzGateway
+
 import pandas
 
 '''
@@ -47,7 +48,9 @@ for ds in project.listChildren():
                 continue
 
             if len(channels) != len(names):
-                print "Number of channel names (%d) doesn't match number of channels (%d) (%s)" % (len(channels), len(names), img.getName())
+                print "Number of channel names (%d) doesn't match number of \
+                       channels (%d) (%s)" % (len(channels), len(names),
+                                              img.getName())
                 continue
 
             for i, ch in enumerate(channels):
@@ -56,4 +59,3 @@ for ds in project.listChildren():
                 lc.save()
 
             print "Updated channel names for %s" % img.getName()
-
