@@ -6,7 +6,7 @@ $omero login
 cd ../experimentA/renderingsettings
 
 IFS=$(echo -en "\n\b")
-for f in *.json
+for f in *.yml
 do
 	imgname=${f%.*}
 
