@@ -42,9 +42,6 @@ columns:
   - name: Characteristics [Growth Condition]
     clientname: Growth Condition
     include: yes
-  - name: Channels
-    clientname: Channels
-    include: yes
 
   ######################################################################
   # mapr groups
