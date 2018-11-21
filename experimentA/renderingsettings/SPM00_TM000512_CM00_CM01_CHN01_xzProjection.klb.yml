@@ -1,0 +1,7 @@
+---
+channels:
+  0: {active: true, color: 00FF00, end: 2293.0, label: H2B-eGFP, max: 65535.0,
+      min: 0.0, start: 0.0}
+  1: {active: true, color: FF0000, end: 1029.0, label: 'myr-tdTomato',
+      max: 65535.0, min: 0.0, start: 0.0}
+greyscale: false
