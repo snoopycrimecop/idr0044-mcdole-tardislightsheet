@@ -4,8 +4,8 @@
 "# Section with generic information about the study including title, description, publication details (if applicable) and contact details"				
 				
 Comment[IDR Study Accession]	idr0044			
-Study Title	In toto imaging and reconstruction of post-implantation mouse development at the single-cell level			
-Study Type	# leave blank			
+Study Title	In Toto Imaging and Reconstruction of Post-Implantation Mouse Development at the Single-Cell Level			
+Study Type	light sheet fluorescence microscopy of TARDIS registered embryos			
 Study Type Term Source REF	# leave blank			
 Study Type Term Accession	# leave blank			
 Study Description	The mouse embryo has long been central to the study of mammalian development; however, elucidating the cell behaviors governing gastrulation and the formation of tissues and organs remains a fundamental challenge. A major obstacle is the lack of live imaging and image analysis technologies capable of systematically following cellular dynamics across the developing embryo. We developed a light-sheet microscope that adapts itself to the dramatic changes in size, shape and optical properties of the post-implantation mouse embryo and captures its development from gastrulation to early organogenesis at the cellular level. We furthermore developed a computational framework for reconstructing long-term cell tracks, cell divisions, dynamic fate maps and maps of tissue morphogenesis across the entire embryo. By jointly analyzing cellular dynamics in multiple embryos registered in space and time, we built a dynamic atlas of post-implantation mouse development that, together with our microscopy and computational methods, is provided as a resource.		 	
@@ -18,7 +18,7 @@ Study Public Release Date	"# enter a date of when the data can be made public, i
 				
 # Study Publication				
 Study PubMed ID	30318151			
-Study Publication Title	In Toto Imaging and Reconstruction of Post-Implantation Mouse Development at the Single-Cell Level.			
+Study Publication Title	In Toto Imaging and Reconstruction of Post-Implantation Mouse Development at the Single-Cell Level			
 Study Author List	Katie McDole, Léo Guignard, Fernando Amat, Andrew Berger, Grégoire Malandain, Loïc A. Royer, Srinivas C. Turaga, Kristin Branson, Philipp J. Keller			
 Study PMC ID				
 Study DOI	https://doi.org/10.1016/j.cell.2018.09.031			
