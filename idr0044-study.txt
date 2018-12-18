@@ -35,7 +35,7 @@ Study License	CC-BY 4.0
 Study License URL	https://creativecommons.org/licenses/by/4.0/			
 Study Copyright	McDole et al.			
 Study Data Publisher	University of Dundee			
-Study Data DOI				
+Study Data DOI	https://doi.org/10.17867/10000116		
 				
 Term Source Name	NCBITaxon 10090	EFO	CMPO	FBbi
 Term Source URI	"http://purl.obolibrary.org/obo/EMAP_80, http://purl.obolibrary.org/obo/EMAP_106, http://purl.obolibrary.org/obo/EMAP_147, http://purl.obolibrary.org/obo/EMAP_207"	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/
