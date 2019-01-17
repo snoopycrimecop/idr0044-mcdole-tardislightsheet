@@ -1,5 +1,6 @@
 ---
+version: 2
 channels:
-  0: {active: true, color: '808080', end: 2188.0, label: H2B-eGFP,
+  1: {active: true, color: '808080', end: 2188.0, label: H2B-eGFP,
       max: 65535.0, min: 0.0, start: 0.0}
 greyscale: true
