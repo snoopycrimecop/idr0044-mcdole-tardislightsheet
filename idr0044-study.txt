@@ -52,8 +52,8 @@ Experiment Size	5D Images: 	"Average Image Dimension (XYZCT): 2169,2048,988,531"
 Experiment Example Images	See attached: FigureForIDR.png			
 Experiment Imaging Method	light sheet fluorescence microscopy			
 Experiment Imaging Method Term Source REF	LSFM/SPIM			
-Experiment Imaging Method Term Accession	http://purl.obolibrary.org/obo/FBbi_00000369			
-Experiment Comments	;			
+Experiment Imaging Method Term Accession	FBbi_00000369			
+Experiment Comments				
 				
 # assay files				
 Experiment Assay File	# put in the name of the assay file			
