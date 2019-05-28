@@ -13,8 +13,8 @@ Study Organism	Mus musculus
 Study Organism Term Source REF	NCBITaxon			
 Study Organism Term Accession	NCBITaxon_10090			
 Study Experiments Number	1			
-Study External URL	# if there is an existing web page related to the study enter it here			
-Study Public Release Date	"# enter a date of when the data can be made public, if known"			
+Study External URL				
+Study Public Release Date	2018-11-29			
 				
 # Study Publication				
 Study PubMed ID	30318151			
