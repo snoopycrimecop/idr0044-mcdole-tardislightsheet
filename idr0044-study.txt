@@ -18,8 +18,8 @@ Study Public Release Date	2018-11-29
 				
 # Study Publication				
 Study PubMed ID	30318151			
-Study Publication Title	In Toto Imaging and Reconstruction of Post-Implantation Mouse Development at the Single-Cell Level			
-Study Author List	Katie McDole, Léo Guignard, Fernando Amat, Andrew Berger, Grégoire Malandain, Loïc A. Royer, Srinivas C. Turaga, Kristin Branson, Philipp J. Keller			
+Study Publication Title	In Toto Imaging and Reconstruction of Post-Implantation Mouse Development at the Single-Cell Level.			
+Study Author List	McDole K, Guignard L, Amat F, Berger A, Malandain G, Royer LA, Turaga SC, Branson K, Keller PJ			
 Study PMC ID				
 Study DOI	https://doi.org/10.1016/j.cell.2018.09.031			
 				
