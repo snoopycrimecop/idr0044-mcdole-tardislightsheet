@@ -36,4 +36,4 @@ for ds in project.listChildren():
                 oldName = img.getName()
                 img.setName(imageNames[oldName])
                 img.save()
-                print "Renamed %s to %s" % (oldName, imageNames[oldName])
+                print("Renamed %s to %s" % (oldName, imageNames[oldName]))
