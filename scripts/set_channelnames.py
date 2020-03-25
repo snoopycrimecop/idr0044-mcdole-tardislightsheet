@@ -39,18 +39,18 @@ for ds in project.listChildren():
             channels = img.getChannels(noRE=True)
 
             if img.getName() not in channelNames:
-                print "No channel names found for %s" % img.getName()
+                print("No channel names found for %s" % img.getName())
                 continue
 
             names = channelNames[img.getName()].split(splitchar)
             if len(names) == 0:
-                print "No channel names found for %s" % img.getName()
+                print("No channel names found for %s" % img.getName())
                 continue
 
             if len(channels) != len(names):
-                print "Number of channel names (%d) doesn't match number of \
+                print("Number of channel names (%d) doesn't match number of \
                        channels (%d) (%s)" % (len(channels), len(names),
-                                              img.getName())
+                                              img.getName()))
                 continue
 
             for i, ch in enumerate(channels):
@@ -58,4 +58,4 @@ for ds in project.listChildren():
                 lc.setName(names[i])
                 lc.save()
 
-            print "Updated channel names for %s" % img.getName()
+            print("Updated channel names for %s" % img.getName())
